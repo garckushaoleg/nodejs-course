@@ -1,0 +1,12 @@
+20240114	16:44:23${ uuid() }	/new-page	GET
+20240114	16:44:23${ uuid() }	/css/style.css	GET
+20240114	16:44:23${ uuid() }	/img/img1.jpg	GET
+20240114	16:47:16	3fffa73f-4196-468b-88c8-da3ed8ad5bd8	/new-page	GET
+20240114	16:47:16	6c5bba8f-0d33-45f1-bfe4-765b185b59d6	/css/style.css	GET
+20240114	16:47:16	afd69d53-2b43-44d3-96cd-892aa53b582a	/img/img1.jpg	GET
+20240114	16:47:25${ uuid() }	/new-page	GET
+20240114	16:47:25${ uuid() }	/css/style.css	GET
+20240114	16:47:25${ uuid() }	/img/img1.jpg	GET
+20240114	16:47:30	fbf4e08a-8a93-4f9e-9152-3d173eaa2248	/new-page	GET
+20240114	16:47:30	14acdb38-de83-48f2-8ba6-e3a76355e37f	/css/style.css	GET
+20240114	16:47:30	fa4f985f-bce8-4efa-b5b9-2378bb6971f3	/img/img1.jpg	GET
